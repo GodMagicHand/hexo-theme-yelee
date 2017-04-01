@@ -31,11 +31,11 @@ favicon: /favicon.png
 root_url: 
 
 # Year of Site Creation | 网站成立年份
-since: 2016
+since: 2014
 
 # Social info. Bar | 社交信息展示
 ## Keep "mailto:" in Email | 设置 Email 时保留 "mailto:"
-## Encrypt email 加密邮件地址 http://ctrlq.org/encode/
+## Encrypt email 加密邮件地址
 ## RSS requires a plugin to take effect | 使用 RSS 需先安装对应插件
 ## https://github.com/hexojs/hexo-generator-feed
 
@@ -187,7 +187,7 @@ friends:
 #friends: false
 
 #是否开启“关于我”。
-aboutme: 专注于前端
+aboutme: java
 #aboutme: false
 
 # Open link in a new tab | 是否在新窗口打开链接
